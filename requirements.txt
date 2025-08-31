@@ -1,0 +1,7 @@
+fastapi
+python-dotenv
+groq
+sentence-transformers
+joblib
+pandas
+scikit-learn
